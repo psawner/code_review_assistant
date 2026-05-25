@@ -102,7 +102,7 @@ Streamlit Dashboard
 # Project Structure
 
 ```text
-code_review_assist/
+code_review_assistant/
 │
 ├── app.py
 ├── ui.py
@@ -141,7 +141,7 @@ code_review_assist/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/code_review_assist.git
+git clone https://github.com/psawner/code_review_assistant
 
 cd code_review_assist
 ```
@@ -186,8 +186,6 @@ Create `.env` file:
 GROQ_API_KEY=your_groq_api_key
 
 GITHUB_TOKEN=your_github_token
-
-MODEL_NAME=llama3-70b-8192
 ```
 
 ---
@@ -316,7 +314,7 @@ Select Event:
 
 # Contributors
 
-- Your Name
+- Piyush Kumar
 
 ---
 
